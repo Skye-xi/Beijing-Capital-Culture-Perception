@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Capital Cultural Knowledge Graph — Experiment Code
 
 This repository contains all experiment code for the paper **"Capital Cultural Knowledge Graph Construction Based on LLM Agent Workflow and Tensor Decomposition"** (submitted to IJGI).
@@ -60,3 +61,7 @@ If you use this code, please cite our paper (to be updated upon publication).
 ## License
 
 MIT License
+=======
+# paper-title-code
+Fine-Grained Cultural Perception and Evaluation of Beijing’s Capital Culture Integrating Large Language Models with Higher-Order Tensor Decomposition
+>>>>>>> c52c2f2400e025f22dd8b503a15c77318430359f
