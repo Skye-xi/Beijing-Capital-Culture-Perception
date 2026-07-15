@@ -6,7 +6,7 @@ Shihao Xi¹,², Zhiyuan Ou¹,², Bin Meng²,³,*, Xiaohang Li¹,²
 ² Urban Cultural Perception and Computing Laboratory, Beijing Union University, Beijing 100191, China
 ³ Institute of Beijing Studies, Beijing Union University, Beijing 100191, China
 
-Correspondence: mengbin@buu.edu.cn
+Correspondence: mengbin
 
 License: MIT License
 
